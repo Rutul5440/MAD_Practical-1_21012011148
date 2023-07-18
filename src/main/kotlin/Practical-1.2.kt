@@ -9,7 +9,6 @@ fun main(){
     var d = c.toInt()
     println("Integer value from string value: $d")
 
-
     var e = c.toDouble()
     println("Double value from string value: $e")
 
