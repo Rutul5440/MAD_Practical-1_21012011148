@@ -18,4 +18,5 @@ Output:
 Aim of Practrical-1.3 : Scan student’s information and display all the data.
 
 Output:
+
 ![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/f57714ea-c2b5-4ce8-85f1-cff0eac52540)
