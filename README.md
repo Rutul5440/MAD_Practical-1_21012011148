@@ -20,3 +20,35 @@ Aim of Practrical-1.3 : Scan student’s information and display all the data.
 Output:
 
 ![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/f57714ea-c2b5-4ce8-85f1-cff0eac52540)
+
+-----------------------------------------------------------
+
+Aim of Practical-1.4 : Find the number is odd or even by using Control Flow inside println() method.
+
+Output:
+
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/0b8e0ce4-906f-43e6-aac1-5b94d81736f8)
+
+---------------------------------------------------------------------
+
+Aim of Practical-1.5 : Display month name using When
+
+Output:
+
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/4d993527-5e07-4f70-a3d5-6f8fd9f85fc5)
+
+----------------------------------------------------
+
+Aim of Practical-1.6 : By using a user defined function perform all arithmetic operations.
+
+Output"
+
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/a27e2eee-b9d0-4b57-a562-1b4ab9e501af)
+
+-----------------------------------------------------------
+
+AIm of Practical-1.7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
+
+Output:
+
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/053e89ff-ef94-4cdd-94b4-8dba4ba63fa1)
