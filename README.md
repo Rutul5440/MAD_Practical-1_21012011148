@@ -51,4 +51,4 @@ AIm of Practical-1.7 : Find the factorial of number by recursion. Explain "tailr
 
 Output:
 
-![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/053e89ff-ef94-4cdd-94b4-8dba4ba63fa1)
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/8b9d164d-3421-47d0-a701-6db9404248c7)
