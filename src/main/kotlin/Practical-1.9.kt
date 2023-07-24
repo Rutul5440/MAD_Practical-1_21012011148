@@ -8,4 +8,5 @@ fun main() {
     } else {
         println("The array list is empty.")
     }
+
 }
