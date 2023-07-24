@@ -47,8 +47,14 @@ Output"
 
 -----------------------------------------------------------
 
-AIm of Practical-1.7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
+Aim of Practical-1.7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
 
 Output:
 
 ![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/8b9d164d-3421-47d0-a701-6db9404248c7)
+
+Aim of Practical-1.8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+
+oUTPUT:
+
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/b3adebfa-9fdc-45f9-beb4-8e1bf9f8a9aa)
