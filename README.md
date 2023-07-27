@@ -58,3 +58,9 @@ Aim of Practical-1.8 : Create different types of Array as shown in image. Explor
 oUTPUT:
 
 ![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/b3adebfa-9fdc-45f9-beb4-8e1bf9f8a9aa)
+
+Aim of Practical-1.9 : Find the max number from ArrayList
+
+Output:
+
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/e8ee054a-e680-4856-ad1e-e4919bbdb5ce)
