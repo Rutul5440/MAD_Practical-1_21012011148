@@ -1,12 +1,16 @@
 fun main() {
-    val arrayList = arrayListOf(5, 10, 3, 8, 15, 7)
-
-    val maxNumber = arrayList.maxOrNull()
-
-    if (maxNumber != null) {
-        println("The maximum number is: $maxNumber")
-    } else {
-        println("The array list is empty.")
+    var array = ArrayList<Int>()
+    print("Please enter Array values : ")
+    for (i in 0 until 5) {
+        print("array[$i] : ")
+        var input = readLine()!!.toInt()
+        array.add(input)
     }
-
+    var max = Int.MIN_VALUE
+    for (num in array) {
+        if (num > max) {
+            max = num
+        }
+    }
+    println("Largest element : $max")
 }
