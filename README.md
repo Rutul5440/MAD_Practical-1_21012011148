@@ -64,3 +64,17 @@ Aim of Practical-1.9 : Find the max number from ArrayList
 Output:
 
 ![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/e8ee054a-e680-4856-ad1e-e4919bbdb5ce)
+
+Aim of practical-1.10 : Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
+
+Output:
+
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/aadbeb90-6bf4-4809-8998-f04739414fc3)
+
+Aim of Practical-1.11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
+
+Output:
+
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/1f65ddb5-6fac-43eb-a071-d678abeee9f4)
+![image](https://github.com/Rutul5440/MAD_Practical-1_21012011148/assets/121927117/7cd4fb1a-e5c1-418c-8da9-0382dbb79eae)
+
